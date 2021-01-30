@@ -1,0 +1,30 @@
+node_modules
+
+# IDE
+out/
+.idea/
+*.DS_Store
+.DS_Store
+*.iws
+*.iml
+.vscode/
+.project
+
+# node
+node_modules/
+
+# output
+dist/
+
+# config
+config/*
+
+# testing
+tests_output/*
+test/e2e/tests-output
+.nyc_output
+coverage/
+
+# optional
+#ssl/
+.todo
